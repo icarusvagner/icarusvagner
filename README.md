@@ -27,7 +27,7 @@
 
 ## 🛠 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=rust,ts,js,html,css,wasm,react,vue,svelte,tauri,nodejs,express,java,php,python,postgres,mysql,mongodb,firebase,supabase,git,docker,linux,vim,nginx,jenkins,jest,tailwind,bootstrap,netlify,vercel,postman,redis,graphql,prisma,figma,stackoverflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,ts,js,html,css,wasm,react,vue,svelte,tauri,nodejs,express,java,php,python,postgres,mysql,mongodb,firebase,supabase,git,docker,express,deno,bootstrap,babel,arch,actix,linux,vim,nginx,jenkins,jest,tailwind,bootstrap,netlify,vercel,postman,redis,graphql,prisma,figma,stackoverflow)](https://skillicons.dev)
 
 ---
 
