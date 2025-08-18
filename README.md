@@ -1,56 +1,61 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there! Nice to see you.</h1>
+<h1>
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
+  Hey there! I'm Lance 👋
+</h1>
 
-I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+<p>
+  Welcome to my GitHub! <br>
+  I'm <b>Lance Phillip Descartin</b>, a passionate <b>Fullstack Software Developer</b> living in 
+  <img src="https://cdn-icons-png.flaticon.com/512/197/197561.png" width="13"/> <b>Cebu City, Philippines</b>. 
+</p>
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=icarusvagner&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=icarusvagner&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icarusvagner&layout=compact&theme=vue-dark&hide_border=true)
+
+---
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
-- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
-- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
+- 💻 Fullstack developer building **scalable web & desktop applications**.  
+- 🌱 Currently diving deep into **Rust, TypeScript, and PostgreSQL**.  
+- 🛠️ Strong believer in **open-source collaboration** and continuous learning.  
+- ⚡ Passionate about creating tools that empower people & solve real problems.  
 
-## My Articles
-- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
+---
 
+## 🛠 Tech Stack
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,rust,java,nodejs,vue,react,tauri,git,docker,vim,linux,postman,mongodb,postgres,jquery,jenkins,jest,netlify,php,pinia,stackoverflow,svelte,supabase,firebase,ts,tailwind,yew)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,ts,js,html,css,wasm,react,vue,svelte,tauri,nodejs,express,java,php,python,postgres,mysql,mongodb,firebase,supabase,git,docker,linux,vim,nginx,jenkins,jest,tailwind,bootstrap,netlify,vercel,postman,redis,graphql,prisma,figma,stackoverflow)](https://skillicons.dev)
+
+---
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
+- 🦀 **Rust ecosystems** → Leptos (web), Iced (desktop), Axum (backend).  
+- 🎨 **Frontend mastery** → SvelteKit, React, TailwindCSS.  
+- ⚡ **Data & backend** → SQLx + PostgreSQL, Redis caching, GraphQL APIs.  
+- ☁️ **DevOps** → Dockerized deployments, Nginx configs, CI/CD pipelines.  
 
- ## 🏆 Achievements
+---
 
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
+## 🏆 Achievements
 
+- 🎉 Completed **Hacktoberfest 2023** — contributed to open-source.  
+- 🚀 Built and deployed multiple **Rust + Fullstack projects**.  
+- ✨ Active contributor in developer communities and knowledge sharing.  
+
+---
 
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
+- 🐦 [Twitter](https://twitter.com/introvertedbot)  
+- ✍️ [Articles](https://theenthusiast.dev)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINK)  
+- 📧 Email: **lance@example.com** _(optional to add)_  
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+---
 
-
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for visiting!  
+Let’s build something amazing together 🚀
