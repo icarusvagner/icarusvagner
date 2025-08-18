@@ -34,7 +34,7 @@
 ## 🌱 Currently Exploring
 
 - 🦀 **Rust ecosystems** → Leptos (web), Iced (desktop), Axum (backend).  
-- 🎨 **Frontend mastery** → SvelteKit, React, TailwindCSS.  
+- 🎨 **Frontend mastery** → SvelteKit, React, TailwindCSS, VueJS.  
 - ⚡ **Data & backend** → SQLx + PostgreSQL, Redis caching, GraphQL APIs.  
 - ☁️ **DevOps** → Dockerized deployments, Nginx configs, CI/CD pipelines.  
 
@@ -42,12 +42,11 @@
 
 ## 🏆 Achievements
 
-- 🎉 Completed **Hacktoberfest 2023** — contributed to open-source.  
 - 🚀 Built and deployed multiple **Rust + Fullstack projects**.  
 - ✨ Active contributor in developer communities and knowledge sharing.  
 
+<!--
 ---
-
 ## 📬 Get in Touch
 
 - 🐦 [Twitter](https://twitter.com/introvertedbot)  
@@ -56,6 +55,6 @@
 - 📧 Email: **lance@example.com** _(optional to add)_  
 
 ---
-
+-->
 Thanks for visiting!  
 Let’s build something amazing together 🚀
