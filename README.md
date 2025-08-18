@@ -1,4 +1,4 @@
-# Hi, I'm <YOUR NAME>! 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there! Nice to see you.</h1>
 
 I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
@@ -16,7 +16,7 @@ I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for 
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,rust,java,nodejs,vue,react,tauri,git,docker,vim,linux,postman,mongodb,postgres,jquery)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,rust,java,nodejs,vue,react,tauri,git,docker,vim,linux,postman,mongodb,postgres,jquery,jenkins,jest,netlify,php,pinia,stackoverflow,svelte,supabase,firebase,ts,tailwind,yew)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
