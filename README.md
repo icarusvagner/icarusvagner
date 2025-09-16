@@ -24,8 +24,15 @@
 - ⚡ Passionate about creating tools that empower people & solve real problems.  
 
 ---
-
 ## 🛠 Tech Stack
+
+### Core Stack
+- 🎨 **Frontend:** Leptos, SvelteKit, React, Vue, TailwindCSS  
+- 🦀 **Backend:** Axum, Actix, Node.js, Express  
+- 🗄️ **Database:** PostgreSQL (SQLx), Redis, MongoDB, MySQL  
+- 🚢 **DevOps:** Docker, Nginx, CI/CD pipelines 
+
+### Others
 
 [![My Skills](https://skillicons.dev/icons?i=rust,ts,js,html,css,wasm,react,vue,svelte,tauri,nodejs,express,java,php,python,postgres,mysql,mongodb,firebase,supabase,git,docker,express,deno,bootstrap,babel,arch,actix,linux,vim,nginx,jenkins,jest,tailwind,netlify,vercel,postman,redis,graphql,prisma,figma,stackoverflow,yew)](https://skillicons.dev)
 
