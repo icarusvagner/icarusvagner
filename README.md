@@ -29,7 +29,7 @@
 ### Core Stack
 <p>
   <!-- Frontend -->
-  <img alt="Leptos" src="https://img.shields.io/badge/-Leptos-000000?style=flat-square&logo=rust&logoColor=white" />
+  <img alt="Leptos" src="https://img.shields.io/badge/leptos?style=flat-square&logo=rust&logoColor=white" />
   <img alt="SvelteKit" src="https://img.shields.io/badge/-SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Vue" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
@@ -37,7 +37,7 @@
   <!-- Backend -->
   <img alt="Axum" src="https://img.shields.io/badge/-Axum-000000?style=flat-square&logo=rust&logoColor=white" />
   <img alt="Actix" src="https://img.shields.io/badge/-Actix-2C3E50?style=flat-square&logo=rust&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/nodedotjs?style=flat-square&logo=node.js&logoColor=white" />
 
   <!-- Database -->
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
