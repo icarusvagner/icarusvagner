@@ -37,7 +37,7 @@
   <!-- Backend -->
   <img alt="Axum" src="https://img.shields.io/badge/-Axum-000000?style=flat-square&logo=rust&logoColor=white" />
   <img alt="Actix" src="https://img.shields.io/badge/-Actix-2C3E50?style=flat-square&logo=rust&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" />
 
   <!-- Database -->
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
