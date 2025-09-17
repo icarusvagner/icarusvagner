@@ -29,7 +29,7 @@
 ### Core Stack
 <p>
   <!-- Frontend -->
-  <img alt="Leptos" src="https://img.shields.io/badge/leptos?style=flat-square&logo=rust&logoColor=white" />
+  <img alt="Leptos" src="https://img.shields.io/badge/-Leptos-EF3939?style=flat-square&logo=rust&logoColor=white" />
   <img alt="SvelteKit" src="https://img.shields.io/badge/-SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Vue" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
